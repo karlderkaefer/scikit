@@ -13,3 +13,4 @@
 /tutorial/*.png
 /rossman/script/*.csv
 /rossman/script/__pycache__
+/tutorial/xgb_train.model
