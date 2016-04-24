@@ -1,0 +1,15 @@
+/rossman/data
+/rossman/__pycache__
+/rossman/.idea
+/rossman/submission.xgb.excel.csv
+/rossman/submission.csv
+/rossman/submission.xgb.csv
+/rossman/refactored/*.csv
+/rossman/refactored/__pycache__
+/rossman/refactored/*.pkl
+/tutorial/__pycache__
+/tutorial/.idea
+/tutorial/*.model
+/tutorial/*.png
+/rossman/script/*.csv
+/rossman/script/__pycache__
